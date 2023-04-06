@@ -1,4 +1,5 @@
 {
+  "type": "commonjs",
   "name": "blaze-slider",
   "version": "1.9.1",
   "description": "Blazing Fast Slider For High Performance Web",
